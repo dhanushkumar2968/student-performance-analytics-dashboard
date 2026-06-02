@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+
+--------------------
+
+* KPI Cards
+* Sidebar Filters
+* Data Analysis with Pandas
+* Statistical Analysis with NumPy
+* Charts with Matplotlib
